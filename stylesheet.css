@@ -1,10 +1,14 @@
 
+
 body {
   width: 70%;
   margin:0 auto ;
     background-color:#FADAD7 ;
-    color: ;
-    font-size: 15px;
+    line-height: 25px;
+    font-size: 17px;
+    padding-left: 20px;
+    border-left: 2px solid black;
+    font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 table, tr, td, th {
