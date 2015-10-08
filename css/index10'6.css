@@ -1,0 +1,63 @@
+body {
+    background: #af9da8;
+    font-size: 17px;
+    line-height:30px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+    width:70%;
+/* font-family: Verdana,Geneva,sans-serif;      */
+}
+a
+{
+color:black;
+}
+
+div{
+padding:10px;
+margin-bottom: 6px;
+}
+.main-content {
+   padding: 10px;
+   
+}
+
+.u {
+    text-decoration: underline;
+}
+
+.mets {
+    background: orange;
+
+}
+
+.dodgers {
+    background: blue;
+    color:white;
+
+}
+
+.cubs {
+    
+}
+
+.pittsburgh {
+    padding: 3px,3px;
+    background: yellow;
+    font-color:;
+}
+
+.cardinals {
+    background: #FF8484;
+    
+}
+table
+{
+border-collapse: collapse;
+margin:0 auto; 
+}
+.table-container,td
+{
+    background: ;
+    border:1px solid white;
+    border-collapse: collapse;
+    margin:0 auto;
+}
