@@ -25,12 +25,12 @@ color:
         display:none;
     }
 }
-@media (max-width: 600px) {
+@media (min-width: 600px) {
     .L2{
         display:none;
     }
 }
-@media (max-width: 700px) {
+@media (min-width: 700px) {
     .L3{
         display:none;
     }
