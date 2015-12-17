@@ -20,5 +20,8 @@ h1
 {
 color:
 }
-
-	
+@media (min-width: 600px) {
+    img {
+        display:none;
+    }
+}
