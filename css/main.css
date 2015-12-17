@@ -20,18 +20,28 @@ h1
 {
 color:
 }
-@media (min-width: 500px) {
+@media (max-width: 500px) {
     .L1{
         display:none;
     }
 }
-@media (min-width: 600px) {
+@media (max-width: 600px) {
     .L2{
         display:none;
     }
 }
-@media (min-width: 700px) {
+@media (max-width: 700px) {
     .L3{
+        display:none;
+    }
+}
+@media (max-width: 750px) {
+    .L4{
+        display:none;
+    }
+}
+@media (max-width: 800px) {
+    .L5{
         display:none;
     }
 }
