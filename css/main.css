@@ -20,18 +20,18 @@ h1
 {
 color:
 }
+@media (min-width: 500px) {
+    .L1{
+        display:none;
+    }
+}
 @media (max-width: 600px) {
-    .l1{
+    .L2{
         display:none;
     }
 }
 @media (max-width: 700px) {
-    .l2{
-        display:none;
-    }
-}
-@media (max-width: 800px) {
-    .l3{
+    .L3{
         display:none;
     }
 }
