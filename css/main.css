@@ -20,5 +20,17 @@ h1
 {
 color:
 }
-
-	
+@media (min-width: 600px) {
+    #1{
+        display:none;
+    }
+}
+@media (min-width: 700px) {
+    #2{
+        display:none;
+    }
+}
+@media (min-width: 800px) {
+    #3{
+        display:none;
+    }
